@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="text/javascript" src="navbar.js">
+</script>
+
+<title> Deliverable Two</title>
+
+</head>
+
+<style type="text/css">
+
+
+body { 
+background-image: url("images/biker-bw.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size:100% 100%; 
+}
+
+</style>
+</head>
+<body>
+
+
+
+<style type="text/css">
+h1 {color: rgb(255, 51, 0);
+font-family: Broadway
+}
+a,h2,p,blockquote,li {color: white;
+font-family: Courier;
+font-size: 20px}
+</style>
+<body>
+
+<h1> Deanna Donahoo </h1>
+
+<style>
+body {margin:0}
+ul.topnav {
+    list-style-type: none;
+    margin: 5;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Courier;
+    font-size: 20px;
+}
+
+ul.topnav li a:hover {background-color: rgb(255, 51, 0);}
+
+</style>
+</head>
+<body>
+
+<ul class="topnav" id="myTopnav">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about/about.html">About</a></li>
+  <li><a href="contact/contactsend.html">Contact</a></li>    
+</ul>
+
+ 
+<style type="text/css">
+div image {display:inline-block;}
+</style>
+
+<style type="text/css">
+img {
+border: 1px solid black;
+border-radius: 15px;
+padding:5px;
+width: 200px;
+}
+
+h2#intro {
+color: rgb(255, 51, 0)
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(255, 51, 0, 0.7);
+}
+i {
+font-weight: bold;
+}
+</style>
+
+<div>
+<a target="_blank" href="http://www.gobytram.com/">
+<img src="images/aerialtram.jpg" alt="Aerial Tram" height="200" width="200" />
+</a>
+<a target="_blank" href="https://www.portlandoregon.gov/transportation/57983">
+<img src="images/bikeshare.jpg" alt="Bikeshare" height="200" width="200" />
+</a>
+<a target="_blank" href="https://portlandstreetcar.org/">
+<img src="images/streetcar.jpg" alt="Streetcar" height="200" width="200"/>
+</a>
+</div>
+
+<p>Getting Around Portland:</p>
+<ol>
+  <li>Streetcar</li>
+  <li>Aerial Tram</li>
+  <li>Bikeshare</li>
+</ol>
+
+<h2 id="intro">Portland By Bike</h2>
+
+<blockquote cite="https://www.travelportland.com/collection/portland-by-bike/">
+What gives Portaland the right to calim the handle of Bike City, USA? Well, it could be the <i>315 miles of bikeways</i>, or the nation's highest percentage of bike commuters (7%), or the city's prepondence of bike-themed events.
+</blockquote>
+
+<p><a href="https://www.travelportland.com/plan-your-trip/getting-around/">Learn more about transportation in Portland</a></p>
+
+</body>
+</html>
